@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Zen+Kaku+Gothic+Antique&display=swap');
+
+@import url("components/container.css");
+@import url("components/fashion.css");
+@import url("components/parfum.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1{
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+}
+
+h2{
+	font-size: 22px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+
+
+}
+
+a{
+text-decoration: none;
+}
